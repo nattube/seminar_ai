@@ -1,0 +1,9 @@
+clips/**
+wav_clips/**
+logs/**
+voice_results/**
+voice_nn_logs/**
+
+cached/**
+cached_mf/**
+validated.tsv
